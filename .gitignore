@@ -1,0 +1,25 @@
+# Temporary files
+*.tmp
+*~
+*.swp
+*.swo
+
+# Editor / IDE
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
+
+# Logs and locks
+*.log
+*.lock
+*.pid
+
+# Python cache (if example scripts are included)
+__pycache__/
+*.pyc
+
+# Environment secrets (never commit)
+.env
+.env.local
